@@ -5,13 +5,13 @@ import requests
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 
-# List of HTML files to check (default in root directory)
+# List of HTML files to check at the root directory
 HTML_FILES = [
     'index.html',
-    'timeline_ko.html',
-    'timeline_ja.html',
-    'timeline_zh_cn.html',
-    'timeline_zh_tw.html',
+    'index-en.html',
+    'index-ja.html',
+    'index-zh-ch.html',
+    'index-zh-tw.html',
 ]
 
 # Regex for blog links
@@ -161,18 +161,17 @@ def check_special_link(link_info):
     return True, None
 
 
-def find_html_files(directory):
-    """Recursively find all HTML files in a directory"""
+def find_html_files_in_root():
+    """Find all HTML files in the root directory only (no subdirectories)"""
     html_files = []
-    for root, dirs, files in os.walk(directory):
-        for file in files:
-            if file.lower().endswith('.html'):
-                html_files.append(os.path.join(root, file))
+    for file in os.listdir('.'):
+        if file.lower().endswith('.html') and os.path.isfile(file):
+            html_files.append(file)
     return html_files
 
 
 def main():
-    # Check if a specific file or directory was provided as a command-line argument
+    # Check if a specific file was provided as a command-line argument
     files_to_check = []
     
     if len(sys.argv) > 1:
@@ -181,28 +180,33 @@ def main():
         if os.path.isfile(path_param):
             # Single file mode
             if path_param.lower().endswith('.html'):
-                files_to_check = [path_param]
+                # Only check if it's in the root directory
+                if '/' not in path_param and '\\' not in path_param:
+                    files_to_check = [path_param]
+                else:
+                    print(f"Error: File '{path_param}' is not in the root directory.")
+                    return
             else:
                 print(f"Error: File '{path_param}' is not an HTML file.")
                 return
-        elif os.path.isdir(path_param):
-            # Directory mode - scan recursively
-            print(f"Scanning directory '{path_param}' for HTML files...")
-            files_to_check = find_html_files(path_param)
-            print(f"Found {len(files_to_check)} HTML files to check.")
+        elif os.path.isdir(path_param) and path_param == '.':
+            # Root directory mode
+            print(f"Scanning root directory for HTML files...")
+            files_to_check = find_html_files_in_root()
+            print(f"Found {len(files_to_check)} HTML files to check in the root directory.")
         else:
-            print(f"Error: Path '{path_param}' not found.")
+            print(f"Error: Path '{path_param}' is not valid or not in the root directory.")
             return
     else:
-        # Default mode - check predefined files and also scan all directories
-        print("No path specified. Checking default files and scanning all directories recursively...")
-        files_to_check = HTML_FILES.copy()
-        html_in_dirs = find_html_files('.')
+        # Default mode - check predefined files
+        print("No path specified. Checking default HTML files in the root directory...")
         
-        # Only add files that aren't already in the default list
-        for html_file in html_in_dirs:
-            if html_file not in files_to_check and os.path.normpath(html_file) not in files_to_check:
+        # Only include files that actually exist
+        for html_file in HTML_FILES:
+            if os.path.exists(html_file):
                 files_to_check.append(html_file)
+            else:
+                print(f"Warning: Default file '{html_file}' not found, skipping.")
         
         print(f"Found {len(files_to_check)} HTML files to check.")
     
@@ -221,11 +225,6 @@ def main():
     print("\n=== Checking HTML files ===\n")
     
     for html_file in files_to_check:
-        if not os.path.exists(html_file):
-            print(f'File not found: {html_file}')
-            all_passed = False
-            continue
-        
         file_count += 1
         ok, link_data = check_html_file(html_file)
         if not ok:
@@ -277,7 +276,7 @@ def main():
             del broken_links_summary[html_file]
     
     print("\n=== Summary ===")
-    print(f"Checked {file_count} HTML files")
+    print(f"Checked {file_count} HTML files in the root directory")
     print(f"Found {external_links_count} external links ({broken_external_links} broken)")
     print(f"Found {internal_links_count} internal links ({broken_internal_links} broken)")
     print(f"Found {special_links_count} special links ({broken_special_links} broken)")
