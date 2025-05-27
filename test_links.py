@@ -182,7 +182,7 @@ def main():
             if path_param.lower().endswith('.html'):
                 # Only check if it's in the root directory
                 if '/' not in path_param and '\\' not in path_param:
-                    files_to_check = [path_param]
+                files_to_check = [path_param]
                 else:
                     print(f"Error: File '{path_param}' is not in the root directory.")
                     return
