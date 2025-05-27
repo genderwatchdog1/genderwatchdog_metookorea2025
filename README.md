@@ -70,8 +70,8 @@ If you'd like to contribute to this project, please open an issue or submit a pu
 
 ## License
 
-This project is distributed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). See the LICENSE file for more details.
 
 ### 라이센스
 
-이 프로젝트는 MIT 라이센스 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참조하세요.
+이 프로젝트는 크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 4.0 국제 라이센스(CC BY-NC-SA 4.0) 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참조하세요.
