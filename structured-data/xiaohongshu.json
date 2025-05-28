@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "샤오홍슈(Xiaohongshu) 바이럴로 동국대 중국 유학생 유치 파이프라인 붕괴: 성폭력 은폐, 허위 협력, 공공자금 오용 폭로의 국제적 파장",
+  "description": "젠더와치독의 동국대학교 성폭력 은폐, 허위 국제 파트너십, 공공자금 오용 의혹 폭로가 중국 SNS 샤오홍슈(Xiaohongshu)에서 바이럴을 일으키며, 동국대의 중국 유학생 유치 파이프라인을 사실상 붕괴시켰고, 이 영향은 한국 대학 전체로 확산될 수 있습니다.",
+  "image": "https://genderwatchdog.org/imgs/xiaohongshu/xiaohongshu-viral-impact.jpg",
+  "datePublished": "2025-05-28T12:00:00+09:00",
+  "dateModified": "2025-05-28T12:00:00+09:00",
+  "author": {
+    "@type": "Organization",
+    "name": "젠더와치독",
+    "url": "https://genderwatchdog.org"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "젠더와치독",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://genderwatchdog.org/xiaohongshu.html"
+  },
+  "keywords": "동국대 성폭력, 동국대학교, Xiaohongshu, 샤오홍슈, 중국 유학생, 유학생 유치, 성폭력 은폐, 허위 국제 파트너십, 공공자금 오용, 한국 대학, 국제적 파장, 젠더와치독",
+  "articleBody": "젠더와치독이 동국대학교의 성폭력 은폐, 허위 국제 파트너십, 공공자금 오용 의혹을 고발한 포스트가 중국 SNS 샤오홍슈(Xiaohongshu)에서 폭발적인 바이럴을 일으켰습니다. 해당 포스트들은 수만 회의 조회수와 수백 개의 댓글, 피해자 증언, 국제적 토론을 이끌어내며, 동국대학교의 중국 유학생 유치 파이프라인을 사실상 붕괴시켰습니다. 이로 인해 동국대뿐 아니라 한국 대학 전체의 국제적 신뢰와 유학생 유치 전략에 심각한 타격이 예상됩니다. 샤오홍슈에서의 폭로는 피해자 침묵의 문화를 깨고, 한국 대학의 구조적 성폭력, 제도적 직무유기, 허위 협력, 공공자금 오용 문제를 국제사회에 알리는 계기가 되었습니다. 이 영향은 중국, 일본, 미국 등 글로벌 대학 및 외교 네트워크로 확산되고 있으며, 한국 대학 시스템 전체에 구조적 개혁과 책임을 요구하는 압박으로 이어지고 있습니다."
+}
