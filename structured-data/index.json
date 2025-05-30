@@ -3,7 +3,7 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "동국대학교(동국대/동대/Dongguk) 성폭력 문제와 제도적 은폐: 성폭력 인식 테스트의 허구성",
-    "description": "동국대학교(동국대/동대/Dongguk University)의 성폭력 문제, 제도적 은폐, 그리고 공공자금 오용 의혹에 관한 문서화. 한국여성정책연구원(KWDI) 보고서 분석과 성폭력 인식 테스트의 문제점.",
+    "description": "동국대학교(동국대/동대/Dongguk University)의 성폭력 문제, 제도적 은폐, 그리고 공공자금 오용 의혹에 관한 문서화. 한국여성정책연구원(KWDI) 보고서 분석과 성폭력 인식 테스트의 문제점. 조사 영상 증거 포함.",
     "image": "https://genderwatchdog.org/imgs/og-image-ko.jpg",
     "datePublished": "2025-05-12T12:00:00+09:00",
     "dateModified": "2025-05-12T12:00:00+09:00",
@@ -25,8 +25,80 @@
       "@id": "https://genderwatchdog.org/"
     },
     "articleSection": "대학 성폭력, 성폭력 인식",
-    "keywords": "동국대 성폭력, 동국대학교 성폭력, 동대 성폭력, Dongguk University, 성폭력 인식 테스트, 한국여성정책연구원, 대학 성희롱, 미투 운동",
-    "articleBody": "Gender Watchdog는 동국대학교를 비롯한 한국 대학의 성폭력 문제, 제도적 은폐, 그리고 공공자금 오용 의혹을 문서화하는 프로젝트입니다. 한국여성정책연구원(KWDI)의 연구에 따르면 동국대학교 영화 프로그램의 성폭력 위험 점수는 81/100으로 매우 높은 수준입니다. 동국대학교는 여학생회 해체, 성폭력 사건 처리 태만, 국제 파트너십 위조 등 여러 문제점이 있습니다. 또한 동국대학교가 제공하는 성폭력 인식 테스트는 성폭력에 관한 유해한 신화를 영속화하고 있으며, 이는 형식적인 진보주의의 대표적 사례입니다."
+    "keywords": "동국대 성폭력, 동국대학교 성폭력, 동대 성폭력, Dongguk University, 성폭력 인식 테스트, 한국여성정책연구원, 대학 성희롱, 미투 운동, 영상 증거, 조사 보도",
+    "articleBody": "Gender Watchdog는 동국대학교를 비롯한 한국 대학의 성폭력 문제, 제도적 은폐, 그리고 공공자금 오용 의혹을 문서화하는 프로젝트입니다. 한국여성정책연구원(KWDI)의 연구에 따르면 동국대학교 영화 프로그램의 성폭력 위험 점수는 81/100으로 매우 높은 수준입니다. 동국대학교는 여학생회 해체, 성폭력 사건 처리 태만, 동국대학교가 주장하는 381개의 국제 파트너십 중 적어도 하나의 캐나다 대학교가 직접 연락을 받고 파트너십을 공식 부인하는 등 여러 문제점이 있습니다. 또한 동국대학교가 제공하는 성폭력 인식 테스트는 성폭력에 관한 유해한 신화를 영속화하고 있으며, 이는 형식적인 진보주의의 대표적 사례입니다. 젠더와치독은 이러한 문제들을 영상 증거를 통해 상세히 기록하고 분석합니다."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "[긴급] 동국대학교의 허위 파트너십 주장: 납세자 사기 의혹과 정부 자금 오용 가능성",
+    "description": "동국대학교가 주장하는 381개의 국제 파트너십 중 적어도 하나의 캐나다 대학교가 직접 연락을 받고 파트너십을 공식 부인했습니다. 이는 파트너십 주장의 정확성과 정부 지원금 오용 가능성에 대한 심각한 의문을 제기합니다.",
+    "thumbnailUrl": "https://img.youtube.com/vi/INiEomGHFGQ/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT15M",
+    "embedUrl": "https://www.youtube.com/embed/INiEomGHFGQ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "젠더와치독",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/INiEomGHFGQ",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "[업데이트] 동국대학교 영화과 성폭력 구조적 위험요소 - 타이틀나인 실패 및 허위 국제협력 관계",
+    "description": "한국여성정책연구원이 조사한 동국대학교 영화 프로그램의 성폭력 위험 점수 81/100. 전원 남성 교수진 구성과 Title IX 위반 위험을 분석합니다.",
+    "thumbnailUrl": "https://img.youtube.com/vi/i5Nk8ohgl2E/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT12M",
+    "embedUrl": "https://www.youtube.com/embed/i5Nk8ohgl2E",
+    "publisher": {
+      "@type": "Organization",
+      "name": "젠더와치독",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/i5Nk8ohgl2E",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "[긴급] 미투 운동 이후 예술 교육에서의 성폭력 (KWDI): 동국대학교 영화과 10년간의 방치 사례 (2016-2025)",
+    "description": "한국여성정책연구원의 2020년 보고서를 바탕으로 미투 운동 이후 예술 교육에서의 성폭력 실태와 동국대학교의 10년간 방치 사례(2016-2025)를 분석합니다.",
+    "thumbnailUrl": "https://img.youtube.com/vi/S9bO1rVHJYQ/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT18M",
+    "embedUrl": "https://www.youtube.com/embed/S9bO1rVHJYQ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "젠더와치독",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/S9bO1rVHJYQ",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
   },
   {
     "@context": "https://schema.org",
@@ -35,7 +107,7 @@
     "datePublished": "2025-05-12T12:00:00+09:00",
     "dateModified": "2025-05-12T12:00:00+09:00",
     "description": "한국여성정책연구원(KWDI) 보고서를 통해 본 동국대학교(동국대/동대/Dongguk)의 성폭력 위험 점수(81/100)와 표면적인 성폭력 인식 테스트의 문제점 분석",
-    "articleBody": "동국대학교는 한국여성정책연구원(KWDI)에서 성폭력 위험 점수가 가장 높은(81/100) 영화 프로그램을 운영하고 있는 것으로 밝혀졌습니다. 디지털 영상 및 콘텐츠 대학원은 전원 남성 교수진으로 구성되어 있으며, 2018년 한국 미투 운동이 최고조에 달했을 때 여학생회를 해체했습니다. 또한 2016년 사례에서 동국대학교는 검찰로부터 성폭력 사건에 대해 통보받은 후 6개월 동안 아무런 조치를 취하지 않았습니다. 동국대학교는 실제로 존재하지 않는 381개의 국제 대학 파트너십을 주장했습니다. 이는 정부 지원금을 받기 위한 목적으로 이루어진 것으로 추정되는 공공자금 오용 의혹입니다. 동국대학교가 제공하는 성폭력 인식 테스트는 성폭력에 관한 유해한 신화를 영속화하고 있으며, 이는 형식적인 진보주의의 대표적 사례입니다.",
+    "articleBody": "동국대학교는 한국여성정책연구원(KWDI)에서 성폭력 위험 점수가 가장 높은(81/100) 영화 프로그램을 운영하고 있는 것으로 밝혀졌습니다. 디지털 영상 및 콘텐츠 대학원은 전원 남성 교수진으로 구성되어 있으며, 2018년 한국 미투 운동이 최고조에 달했을 때 여학생회를 해체했습니다. 또한 2016년 사례에서 동국대학교는 검찰로부터 성폭력 사건에 대해 통보받은 후 6개월 동안 아무런 조치를 취하지 않았습니다. 동국대학교가 주장하는 381개의 국제 파트너십 중 적어도 하나의 캐나다 대학교가 파트너십을 공식 부인했습니다. 이는 파트너십 주장의 정확성과 정부 지원금 오용 가능성에 대한 심각한 의문을 제기합니다. 동국대학교가 제공하는 성폭력 인식 테스트는 성폭력에 관한 유해한 신화를 영속화하고 있으며, 이는 형식적인 진보주의의 대표적 사례입니다.",
     "author": {
       "@type": "Organization",
       "name": "젠더와치독",

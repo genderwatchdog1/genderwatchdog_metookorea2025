@@ -3,7 +3,7 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "Dongguk University Sexual Violence and Institutional Cover-up",
-    "description": "Documentation of sexual violence issues, institutional cover-ups, and alleged misuse of public funds at Dongguk University and other Korean institutions. Based on KWDI's 2020 report on university sexual violence.",
+    "description": "Documentation of sexual violence issues, institutional cover-ups, and alleged misuse of public funds at Dongguk University and other Korean institutions. Features investigative video evidence and analysis based on KWDI's 2020 report on university sexual violence.",
     "image": "https://genderwatchdog.org/imgs/og-image-en.jpg",
     "datePublished": "2025-05-12T12:00:00+09:00",
     "dateModified": "2025-05-12T12:00:00+09:00",
@@ -25,8 +25,80 @@
       "@id": "https://genderwatchdog.org/index-en.html"
     },
     "articleSection": "University Sexual Violence, Gender Sensitivity",
-    "keywords": "Dongguk University, sexual violence, sexual harassment, sexual assault, KWDI, gender sensitivity, Title IX, university safety",
-    "articleBody": "Gender Watchdog documents cases of sexual violence, institutional cover-ups, and alleged misuse of public funds at Korean universities, particularly Dongguk University. According to the Korean Women's Development Institute (KWDI) research, Dongguk University's Graduate School of Digital Image and Contents, Department of Film has a sexual violence risk score of 81/100, the highest among programs studied. Dongguk University has disbanded its Women's Student Council, shown negligence in handling sexual violence cases, and claimed false international partnerships. The so-called gender sensitivity test provided by Dongguk University perpetuates harmful myths about sexual violence and exemplifies performative progressivism - appearing concerned about gender issues while avoiding accountability for documented institutional failures."
+    "keywords": "Dongguk University, sexual violence, sexual harassment, sexual assault, KWDI, gender sensitivity, Title IX, university safety, video evidence, investigative journalism, partnership fraud",
+    "articleBody": "Gender Watchdog documents cases of sexual violence, institutional cover-ups, and alleged misuse of public funds at Korean universities, particularly Dongguk University. According to the Korean Women's Development Institute (KWDI) research, Dongguk University's Graduate School of Digital Image and Contents, Department of Film has a sexual violence risk score of 81/100, the highest among programs studied. Dongguk University has disbanded its Women's Student Council, shown negligence in handling sexual violence cases, and among the 381 international partnerships claimed by Dongguk, at least one Canadian university has officially denied having any partnership when contacted directly. The so-called gender sensitivity test provided by Dongguk University perpetuates harmful myths about sexual violence and exemplifies performative progressivism - appearing concerned about gender issues while avoiding accountability for documented institutional failures. Gender Watchdog provides detailed video evidence documenting these issues."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Dongguk University: Title IX Sexual Violence Risk & Partnership Fraud",
+    "description": "Examines Dongguk University's film program with the highest sexual violence risk score (81/100). Documents one confirmed denial of partnership from a Canadian university among 381 claimed partnerships, with 3 US universities confirming they will re-evaluate partnerships and ATIXA notified. Analyzes Title IX violation risks and potential government funding misuse through falsified partnerships.",
+    "thumbnailUrl": "https://img.youtube.com/vi/1CJdpaBTrg0/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT15M",
+    "embedUrl": "https://www.youtube.com/embed/1CJdpaBTrg0",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gender Watchdog",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/1CJdpaBTrg0",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Sexual Violence in Arts Education After Me Too: Korean Research Findings (KWDI 2020)",
+    "description": "Comprehensive analysis of the Korean Women's Development Institute's 2020 research findings on sexual violence in university arts and culture programs. Documents the 61.5% victimization rate among female students and systemic institutional failures across Korean universities.",
+    "thumbnailUrl": "https://img.youtube.com/vi/uOq4fSGePkI/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT12M",
+    "embedUrl": "https://www.youtube.com/embed/uOq4fSGePkI",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gender Watchdog",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/uOq4fSGePkI",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "[긴급] 미투 운동 이후 예술 교육에서의 성폭력 (KWDI): 동국대학교 영화과 10년간의 방치 사례 (2016-2025)",
+    "description": "Korean-language analysis of the Korean Women's Development Institute's 2020 research on sexual violence in arts education after the MeToo movement, focusing on Dongguk University's decade of institutional negligence (2016-2025).",
+    "thumbnailUrl": "https://img.youtube.com/vi/S9bO1rVHJYQ/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT18M",
+    "embedUrl": "https://www.youtube.com/embed/S9bO1rVHJYQ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gender Watchdog",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/S9bO1rVHJYQ",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
   },
   {
     "@context": "https://schema.org",
