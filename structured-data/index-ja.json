@@ -1,0 +1,173 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "東国大学の性暴力問題と組織的隠蔽: 性暴力認識テストの虚構性",
+    "description": "東国大学の性暴力問題、組織的隠蔽、公的資金流用疑惑に関する記録。韓国女性政策研究院(KWDI)報告書分析と性暴力認識テストの問題点。調査映像証拠も含む。",
+    "image": "https://genderwatchdog.org/imgs/og-image-ja.jpg",
+    "datePublished": "2025-05-12T12:00:00+09:00",
+    "dateModified": "2025-05-12T12:00:00+09:00",
+    "author": {
+      "@type": "Organization",
+      "name": "ジェンダーウォッチドッグ",
+      "url": "https://genderwatchdog.org"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ジェンダーウォッチドッグ",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://genderwatchdog.org/index-ja.html"
+    },
+    "articleSection": "大学性暴力, 性暴力認識",
+    "keywords": "東国大学 性暴力, 性暴力認識テスト, 韓国女性政策研究院, 大学 セクハラ, ミートゥー運動",
+    "articleBody": "Gender Watchdogは東国大学をはじめとする韓国の大学における性暴力問題、組織的隠蔽、公的資金流用疑惑を記録するプロジェクトです。韓国女性政策研究院(KWDI)報告書に基づくGender Watchdogの分析によれば、東国大学映画プログラムの性暴力リスクスコアは81/100と非常に高い水準です。東国大学は女子学生会の解体、性暴力事件処理の怠慢などの問題があります。東国大学が主張する381の国際パートナーシップのうち、少なくとも1つのカナダの大学がパートナーシップを公式に否定しました。また、東国大学が提供する性暴力認識テストは性暴力に関する有害な神話を永続化しており、これは形式的な進歩主義の代表的な事例です。"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "東国大学の性暴力問題と性暴力認識テストの虚構性",
+    "datePublished": "2025-05-12T12:00:00+09:00",
+    "dateModified": "2025-05-12T12:00:00+09:00",
+    "description": "韓国女性政策研究院(KWDI)報告書に基づくGender Watchdogの分析による東国大学の性暴力リスクスコア(81/100)と表面的な性暴力認識テストの問題点分析",
+    "articleBody": "東国大学は韓国女性政策研究院(KWDI)報告書に基づくGender Watchdogの分析で性暴力リスクスコアが最も高い(81/100)映画プログラムを運営していることが明らかになりました。デジタル映像・コンテンツ大学院は全て男性教授陣で構成されており、2018年の韓国ミートゥー運動が最高潮に達した際に女子学生会を解体しました。また、2016年の事例では東国大学は検察から性暴力事件について通報を受けた後、6ヶ月間何の措置も取りませんでした。東国大学が主張する381の国際パートナーシップのうち、少なくとも1つのカナダの大学が直接連絡を受けた際にパートナーシップを公式に否定しました。これは、パートナーシップ主張の正確性と政府資金の潜在的流用について深刻な疑問を提起します。東国大学が提供する性暴力認識テストは性暴力に関する有害な神話を永続化しており、これは形式的な進歩主義の代表的な事例です。",
+    "author": {
+      "@type": "Organization",
+      "name": "ジェンダーウォッチドッグ",
+      "url": "https://genderwatchdog.org"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ジェンダーウォッチドッグ",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://genderwatchdog.org/index-ja.html"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "性暴力認識とは何ですか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "性暴力認識とは、性別による差別、固定観念、不平等を認識し、それに敏感に反応する能力です。真の性暴力認識には同意に基づく関係の重要性、被害者非難文化の認識、性別固定観念や性暴力神話の修正、権力不均衡の理解が含まれます。表面的なテストではなく、実質的な教育と制度改善が必要です。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "東国大学の性暴力リスクスコアはいくつですか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "韓国女性政策研究院(KWDI)の2020年研究に基づくGender Watchdogの分析によれば、東国大学映画プログラムの性暴力リスクスコアは81/100です。これは分析対象となった大学プログラムの中で最も高いリスクスコアであり、非常に深刻な水準です。この高いスコアはデジタル映像・コンテンツ大学院が全員男性教授陣で構成されていること、性暴力事件処理の怠慢、女子学生会の解体、効果的な性暴力予防・対応体制の不在などが要因です。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "大学内の性暴力はどのように通報できますか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "大学内の性暴力事件を通報する方法は以下の通りです: 1) 学内の人権センターや性暴力相談室に連絡 2) 外部機関の活用（韓国性暴力相談所(02-338-5801)、韓国女性の電話(02-3156-9900)など）3) 警察への通報（112）4) 匿名通報プラットフォームの利用。通報時にはできるだけ詳細な情報を提供し、証拠があれば保存することが重要です。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "性暴力被害者のための支援リソースはどこで見つけられますか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "性暴力被害者のための支援リソースは以下の通りです: 相談サービス（韓国性暴力相談所(02-338-5801)、韓国女性の電話(02-3156-9900)）、法律支援（大韓法律救助公団(132)、韓国女性弁護士会(02-533-2018)）、医療支援（ひまわりセンター）、オンラインリソース（EROC被害者スペース、韓国性暴力相談所ウェブサイト）。大学生の場合、学内の人権センターや相談室を通じて支援を受けることもできます。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "東国大学の性暴力認識テストにはどのような問題がありますか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "東国大学の性暴力認識テストには以下のような深刻な問題があります: 1) 被害者非難の助長 2) 同意に関する誤解 3) 性暴力神話の永続化 4) 形式的なアプローチ 5) 用語の歪曲。これらは大学が性暴力問題に関心があるように見せかけながら、実際には記録された制度的失敗に対する責任を回避する形式的な進歩主義の例です。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "セクハラ、性犯罪、性暴力 - これらの用語の違いは何ですか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "韓国女性政策研究院(KWDI)の2020年報告書によれば、これらの用語には重要な関係があります: セクハラは性的発言、提案、不快な行動などを含みますが、これは単なる『不快』ではなく性暴力の一形態です。わいせつ行為は望まない身体的接触を含み、これも明確な性暴力です。性的不正行為は法的責任を回避するために機関が使用する緩和された用語で、本質的には性暴力です。KWDIは大学環境で発生するこれらすべての行為を性暴力(Sexual Violence)として統合して分類しています。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Title IXとは何で、なぜ国際大学に重要なのですか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Title IXはアメリカの画期的な連邦法で、性別を理由に連邦資金援助を受ける教育プログラムや活動で差別を禁じています。スポーツの公平性から始まりましたが、性暴力や性差別防止へと大きく拡大されました。Title IXは国際パートナーシップに重要な影響を与えます: アメリカの大学は国際パートナーが性暴力予防・対応基準を維持することを保証する法的義務があります。海外留学環境やパートナー機関の安全性についてデューデリジェンスを実施する必要があり、性暴力リスクが構造的に存在する大学はアメリカの機関とのパートナーシップ終了に直面する可能性があります。全員男性教授陣などの性別不均衡はTitle IXの懸念を示す場合があります。"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "[긴급] 동국대학교의 허위 파트너십 주장: 납세자 사기 의혹과 정부 자금 오용 가능성",
+    "description": "東国大学が主張する381の国際パートナーシップのうち、少なくとも1つのカナダの大学がパートナーシップを公式に否定。政府資金流用疑惑の調査映像。",
+    "thumbnailUrl": "https://img.youtube.com/vi/INiEomGHFGQ/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT15M",
+    "embedUrl": "https://www.youtube.com/embed/INiEomGHFGQ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "ジェンダーウォッチドッグ",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject", 
+    "name": "[업데이트] 동국대학교 영화과 성폭력 구조적 위험요소 - 타이틀나인 실패 및 허위 국제협력 관계",
+    "description": "東国大学映画プログラムの性暴力リスクスコア（81/100）分析とTitle IX違反リスク、偽造パートナーシップ調査。1つのカナダ大学がパートナーシップを否定、3つの米国大学が再評価を確認。",
+    "thumbnailUrl": "https://img.youtube.com/vi/i5Nk8ohgl2E/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT20M",
+    "embedUrl": "https://www.youtube.com/embed/i5Nk8ohgl2E",
+    "publisher": {
+      "@type": "Organization",
+      "name": "ジェンダーウォッチドッグ",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "[긴급] 미투 운동 이후 예술 교육에서의 성폭력 (KWDI): 동국대학교 영화과 10년간의 방치 사례 (2016-2025)",
+    "description": "韓国女性政策研究院（KWDI）の2020年研究に基づく、ミートゥー運動後の芸術教育における性暴力分析。東国大学映画科の10年間の制度的放置（2016-2025）を記録。",
+    "thumbnailUrl": "https://img.youtube.com/vi/S9bO1rVHJYQ/maxresdefault.jpg", 
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT18M",
+    "embedUrl": "https://www.youtube.com/embed/S9bO1rVHJYQ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "ジェンダーウォッチドッグ",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    }
+  }
+]

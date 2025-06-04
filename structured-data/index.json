@@ -1,0 +1,191 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "동국대학교(동국대/동대/Dongguk) 성폭력 문제와 제도적 은폐: 성폭력 인식 테스트의 허구성",
+    "description": "동국대학교(동국대/동대/Dongguk University)의 성폭력 문제, 제도적 은폐, 그리고 공공자금 오용 의혹에 관한 문서화. 한국여성정책연구원(KWDI) 보고서 분석과 성폭력 인식 테스트의 문제점. 조사 영상 증거 포함.",
+    "image": "https://genderwatchdog.org/imgs/og-image-ko.jpg",
+    "datePublished": "2025-05-12T12:00:00+09:00",
+    "dateModified": "2025-05-12T12:00:00+09:00",
+    "author": {
+      "@type": "Organization",
+      "name": "젠더와치독",
+      "url": "https://genderwatchdog.org"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "젠더와치독",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://genderwatchdog.org/"
+    },
+    "articleSection": "대학 성폭력, 성폭력 인식",
+    "keywords": "동국대 성폭력, 동국대학교 성폭력, 동대 성폭력, Dongguk University, 성폭력 인식 테스트, 한국여성정책연구원, 대학 성희롱, 미투 운동, 영상 증거, 조사 보도",
+    "articleBody": "Gender Watchdog는 동국대학교를 비롯한 한국 대학의 성폭력 문제, 제도적 은폐, 그리고 공공자금 오용 의혹을 문서화하는 프로젝트입니다. 젠더와치독이 한국여성정책연구원(KWDI) 보고서와 기타 자료를 바탕으로 분석한 결과, 동국대학교 영화 프로그램의 성폭력 위험 점수는 81/100으로 매우 높은 수준입니다. 동국대학교는 여학생회 해체, 성폭력 사건 처리 태만, 동국대학교가 주장하는 381개의 국제 파트너십 중 적어도 하나의 캐나다 대학교가 직접 연락을 받고 파트너십을 공식 부인하는 등 여러 문제점이 있습니다. 또한 동국대학교가 제공하는 성폭력 인식 테스트는 성폭력에 관한 유해한 신화를 영속화하고 있으며, 이는 형식적인 진보주의의 대표적 사례입니다. 젠더와치독은 이러한 문제들을 영상 증거를 통해 상세히 기록하고 분석합니다."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "[긴급] 동국대학교의 허위 파트너십 주장: 납세자 사기 의혹과 정부 자금 오용 가능성",
+    "description": "동국대학교가 주장하는 381개의 국제 파트너십 중 적어도 하나의 캐나다 대학교가 직접 연락을 받고 파트너십을 공식 부인했습니다. 이는 파트너십 주장의 정확성과 정부 지원금 오용 가능성에 대한 심각한 의문을 제기합니다.",
+    "thumbnailUrl": "https://img.youtube.com/vi/INiEomGHFGQ/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT15M",
+    "embedUrl": "https://www.youtube.com/embed/INiEomGHFGQ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "젠더와치독",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/INiEomGHFGQ",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "[업데이트] 동국대학교 영화과 성폭력 구조적 위험요소 - 타이틀나인 실패 및 허위 국제협력 관계",
+    "description": "한국여성정책연구원이 조사한 동국대학교 영화 프로그램의 성폭력 위험 점수 81/100. 전원 남성 교수진 구성과 Title IX 위반 위험을 분석합니다.",
+    "thumbnailUrl": "https://img.youtube.com/vi/i5Nk8ohgl2E/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT12M",
+    "embedUrl": "https://www.youtube.com/embed/i5Nk8ohgl2E",
+    "publisher": {
+      "@type": "Organization",
+      "name": "젠더와치독",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/i5Nk8ohgl2E",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "[긴급] 미투 운동 이후 예술 교육에서의 성폭력 (KWDI): 동국대학교 영화과 10년간의 방치 사례 (2016-2025)",
+    "description": "한국여성정책연구원의 2020년 보고서를 바탕으로 미투 운동 이후 예술 교육에서의 성폭력 실태와 동국대학교의 10년간 방치 사례(2016-2025)를 분석합니다.",
+    "thumbnailUrl": "https://img.youtube.com/vi/S9bO1rVHJYQ/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT18M",
+    "embedUrl": "https://www.youtube.com/embed/S9bO1rVHJYQ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "젠더와치독",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/S9bO1rVHJYQ",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "동국대학교(동국대/동대/Dongguk)의 성폭력 문제와 성폭력 인식 테스트의 허구성",
+    "datePublished": "2025-05-12T12:00:00+09:00",
+    "dateModified": "2025-05-12T12:00:00+09:00",
+    "description": "젠더와치독이 한국여성정책연구원(KWDI) 보고서와 기타 자료를 바탕으로 분석한 동국대학교(동국대/동대/Dongguk)의 성폭력 위험 점수(81/100)와 표면적인 성폭력 인식 테스트의 문제점 분석",
+    "articleBody": "젠더와치독이 한국여성정책연구원(KWDI) 보고서와 기타 자료를 바탕으로 분석한 결과, 동국대학교는 성폭력 위험 점수가 가장 높은(81/100) 영화 프로그램을 운영하고 있는 것으로 나타났습니다. 디지털 영상 및 콘텐츠 대학원은 전원 남성 교수진으로 구성되어 있으며, 2018년 한국 미투 운동이 최고조에 달했을 때 여학생회를 해체했습니다. 또한 2016년 사례에서 동국대학교는 검찰로부터 성폭력 사건에 대해 통보받은 후 6개월 동안 아무런 조치를 취하지 않았습니다. 동국대학교가 주장하는 381개의 국제 파트너십 중 적어도 하나의 캐나다 대학교가 파트너십을 공식 부인했습니다. 이는 파트너십 주장의 정확성과 정부 지원금 오용 가능성에 대한 심각한 의문을 제기합니다. 동국대학교가 제공하는 성폭력 인식 테스트는 성폭력에 관한 유해한 신화를 영속화하고 있으며, 이는 형식적인 진보주의의 대표적 사례입니다.",
+    "author": {
+      "@type": "Organization",
+      "name": "젠더와치독",
+      "url": "https://genderwatchdog.org"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "젠더와치독",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://genderwatchdog.org/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "성폭력 인식이란 무엇인가요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "성폭력 인식은 성별에 따른 차별, 고정관념, 불평등을 인식하고 이에 민감하게 반응하는 능력입니다. 진정한 성폭력 인식은 동의에 기반한 관계의 중요성 이해, 피해자 비난 문화 인식, 성별 고정관념과 성폭력 신화 바로잡기, 권력 불균형 이해하기 등이 포함됩니다. 표면적인 테스트가 아닌 실질적인 교육과 제도 개선이 필요합니다."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "동국대학교의 성폭력 위험 점수는 얼마인가요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "젠더와치독이 한국여성정책연구원(KWDI)의 2020년 연구와 기타 자료를 바탕으로 분석한 결과, 동국대학교 영상대학원의 성폭력 위험 점수는 81/100입니다. 이는 분석된 대학 프로그램 중 가장 높은 위험 점수로, 매우 심각한 수준입니다. 이러한 높은 점수는 영상대학원의 전원 남성 교수진 구성, 성폭력 사건 처리에 있어 문서화된 태만, 여학생회 해체, 효과적인 성폭력 예방 및 대응 체계 부재 등에 기인합니다."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "대학 내 성폭력은 어떻게 신고할 수 있나요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "대학 내 성폭력 사건을 신고하는 방법은 다음과 같습니다: 1) 교내 인권센터 또는 성폭력 상담소 접촉 - 대부분의 대학은 성폭력 신고를 받는 전담 기관이 있습니다. 2) 외부 기관 활용 - 한국여성의전화(02-3156-9900), 한국성폭력상담소(02-338-5801)와 같은 외부 기관에 도움을 요청할 수 있습니다. 3) 경찰 신고 - 심각한 사례의 경우 112에 신고하거나 가까운 경찰서에 방문할 수 있습니다. 4) 익명 신고 플랫폼 - 일부 대학은 익명 신고 시스템을 제공합니다."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "성폭력 생존자를 위한 지원 자원은 어디서 찾을 수 있나요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "성폭력 생존자를 위한 지원 자원은 다음과 같습니다: 상담 서비스: 한국성폭력상담소(02-338-5801), 한국여성의전화(02-3156-9900), 법률 지원: 대한법률구조공단(국번없이 132), 한국여성변호사회(02-533-2018), 의료 지원: 해바라기센터(24시간 운영, 전국 위치), 온라인 자원: EROC 생존자 공간, 한국성폭력상담소 웹사이트. 대학생의 경우, 교내 인권센터나 상담소를 통해 지원을 받을 수도 있습니다."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "동국대학교의 성폭력 인식 테스트는 어떤 문제가 있나요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "동국대학교의 성폭력 인식 테스트는 다음과 같은 심각한 문제점을 가지고 있습니다: 1) 피해자 비난 조장: \"노출이 심한 옷을 입은 상대방도 책임이 있다\"와 같은 문항은 피해자 비난 문화를 강화합니다. 2) 동의에 대한 오해: \"침묵이 동의를 의미한다\"는 주장은 명시적 동의의 중요성을 무시합니다. 3) 성폭력 신화 영속화: \"'싫다'는 것이 실은 좋다는 의미\"와 같은 유해한 신화를 테스트 형식으로 반복합니다. 4) 형식적인 접근: 단순히 테스트를 통과하는 것이 실질적인 인식 개선이나 제도 변화로 이어지지 않습니다. 5) 용어의 왜곡: \"성폭력 인식\"이라는 용어를 사용함으로써 KWDI가 명확히 \"성폭력\"으로 정의한 심각한 문제를 희석시킵니다."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "성희롱, 성범죄, 성폭력 - 이 용어들의 차이점은 무엇인가요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "한국여성정책연구원(KWDI)의 2020년 보고서에 따르면, 이 용어들 사이에는 중요한 관계가 있습니다: 성희롱은 성적 발언, 제안, 불쾌한 행동 등을 포함하지만, 성추행은 원치 않는 신체적 접촉을 포함하며, 성범죄는 법적 책임을 회피하기 위해 기관이 사용하는 완화된 용어로, 본질적으로는 성폭력입니다. KWDI는 대학 환경에서 발생하는 모든 이러한 행위를 성폭력으로 통합하여 분류합니다. 이는 용어를 약화시켜 문제의 심각성을 축소하는 기관의 관행에 대응하기 위한 것입니다."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Title IX란 무엇이며 국제 대학에 왜 중요한가요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Title IX는 미국의 획기적인 연방법으로, 성별을 이유로 연방 재정 지원을 받는 교육 프로그램이나 활동에서 차별을 금지합니다. 스포츠 형평성에서 시작했지만 성폭력과 성차별 방지로 확대되었습니다. Title IX는 국제 파트너십에 중요한 영향을 미칩니다: 미국 대학은 국제 파트너들이 성폭력 예방 및 대응 기준을 유지하도록 보장할 법적 의무가 있고, 해외 파트너 기관 안전에 관한 실사를 수행해야 하며, 성폭력 위험이 있는 대학은 미국 기관과의 파트너십 종료에 직면할 수 있습니다. 전원 남성 교수진과 같은 성별 불균형은 Title IX 우려를 나타낼 수 있습니다."
+        }
+      }
+    ]
+  }
+]
