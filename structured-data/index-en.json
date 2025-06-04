@@ -1,0 +1,173 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Dongguk University Sexual Violence and Institutional Cover-up",
+    "description": "Documentation of sexual violence issues, institutional cover-ups, and alleged misuse of public funds at Dongguk University and other Korean institutions. Features investigative video evidence and analysis based on KWDI's 2020 report on university sexual violence.",
+    "image": "https://genderwatchdog.org/imgs/og-image-en.jpg",
+    "datePublished": "2025-05-12T12:00:00+09:00",
+    "dateModified": "2025-05-12T12:00:00+09:00",
+    "author": {
+      "@type": "Organization",
+      "name": "Gender Watchdog",
+      "url": "https://genderwatchdog.org"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gender Watchdog",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://genderwatchdog.org/index-en.html"
+    },
+    "articleSection": "University Sexual Violence, Gender Sensitivity",
+    "keywords": "Dongguk University, sexual violence, sexual harassment, sexual assault, KWDI, gender sensitivity, Title IX, university safety, video evidence, investigative journalism, partnership fraud",
+    "articleBody": "Gender Watchdog documents cases of sexual violence, institutional cover-ups, and alleged misuse of public funds at Korean universities, particularly Dongguk University. Based on Gender Watchdog's analysis of Korean Women's Development Institute (KWDI) research and other sources, Dongguk University's Graduate School of Digital Image and Contents, Department of Film has a sexual violence risk score of 81/100, the highest among programs studied. Dongguk University has disbanded its Women's Student Council, shown negligence in handling sexual violence cases, and among the 381 international partnerships claimed by Dongguk, at least one Canadian university has officially denied having any partnership when contacted directly. The so-called gender sensitivity test provided by Dongguk University perpetuates harmful myths about sexual violence and exemplifies performative progressivism - appearing concerned about gender issues while avoiding accountability for documented institutional failures. Gender Watchdog provides detailed video evidence documenting these issues."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Dongguk University: Title IX Sexual Violence Risk & Partnership Fraud",
+    "description": "Examines Dongguk University's film program with the highest sexual violence risk score (81/100). Documents one confirmed denial of partnership from a Canadian university among 381 claimed partnerships, with 3 US universities confirming they will re-evaluate partnerships and ATIXA notified. Analyzes Title IX violation risks and potential government funding misuse through falsified partnerships.",
+    "thumbnailUrl": "https://img.youtube.com/vi/1CJdpaBTrg0/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT15M",
+    "embedUrl": "https://www.youtube.com/embed/1CJdpaBTrg0",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gender Watchdog",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/1CJdpaBTrg0",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Sexual Violence in Arts Education After Me Too: Korean Research Findings (KWDI 2020)",
+    "description": "Comprehensive analysis of the Korean Women's Development Institute's 2020 research findings on sexual violence in university arts and culture programs. Documents the 61.5% victimization rate among female students and systemic institutional failures across Korean universities.",
+    "thumbnailUrl": "https://img.youtube.com/vi/uOq4fSGePkI/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT12M",
+    "embedUrl": "https://www.youtube.com/embed/uOq4fSGePkI",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gender Watchdog",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/uOq4fSGePkI",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "[긴급] 미투 운동 이후 예술 교육에서의 성폭력 (KWDI): 동국대학교 영화과 10년간의 방치 사례 (2016-2025)",
+    "description": "Korean-language analysis of the Korean Women's Development Institute's 2020 research on sexual violence in arts education after the MeToo movement, focusing on Dongguk University's decade of institutional negligence (2016-2025).",
+    "thumbnailUrl": "https://img.youtube.com/vi/S9bO1rVHJYQ/maxresdefault.jpg",
+    "uploadDate": "2025-05-12T12:00:00+09:00",
+    "duration": "PT18M",
+    "embedUrl": "https://www.youtube.com/embed/S9bO1rVHJYQ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gender Watchdog",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "contentUrl": "https://youtu.be/S9bO1rVHJYQ",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 0
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is gender sensitivity and why does it matter?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gender sensitivity is the ability to recognize and respond to gender-based discrimination, stereotypes, and inequality. True gender sensitivity includes understanding the importance of consent-based relationships, recognizing victim-blaming culture, correcting sexual violence myths, and understanding power imbalances and their role in perpetuating sexual violence. Meaningful gender sensitivity requires substantive education and institutional reforms, not just superficial online tests."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is Dongguk University's sexual violence risk score?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "According to the Korean Women's Development Institute (KWDI) 2020 research, Dongguk University's Graduate School of Digital Image and Contents, Department of Film has a sexual violence risk score of 81/100. This is the highest risk score among university programs studied, representing an extremely concerning level. This high score is attributed to several factors: all-male faculty composition in the department, documented negligence in handling sexual violence cases, disbanding of the Women's Student Council, and absence of effective sexual violence prevention and response systems."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I report sexual violence at a university?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Reporting sexual violence at a university can be approached through several channels: 1) Campus Resources - Most universities have human rights centers or sexual violence counseling offices designated to receive complaints. 2) External Support Organizations - Organizations like the Korea Sexual Violence Relief Center (02-338-5801) or Women's Hotline (02-3156-9900) can provide guidance. 3) Police Reports - In serious cases, reports can be filed with local police or by calling 112 in Korea. 4) Anonymous Reporting Platforms - Some institutions offer anonymous reporting systems. For international students in Korea, additional resources include embassy support services and international student offices."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What resources are available for survivors of sexual violence?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Survivors of sexual violence can access various support resources: Counseling Services: Korea Sexual Violence Relief Center (02-338-5801), Women's Hotline (02-3156-9900). Legal Assistance: Korea Legal Aid Corporation (132), Korean Women Lawyers Association (02-533-2018). Medical Support: Sunflower Centers (available nationwide, 24-hour service). Online Resources: EROC Survivor Spaces, Korea Sexual Violence Relief Center Website. For English speakers in Korea, some services like the Sunflower Centers offer interpretation services, and the Seoul Global Center Hotline (02-2075-4180) can provide referrals to English-speaking resources."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the problems with Dongguk University's gender sensitivity test?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dongguk University's gender sensitivity test has several serious flaws: 1) Promotes Victim-Blaming: Questions like 'the person wearing revealing clothes is also responsible' reinforce victim-blaming culture. 2) Misrepresents Consent: The suggestion that 'silence means acceptance' ignores the importance of explicit consent. 3) Perpetuates Sexual Violence Myths: The notion that 'no means yes' dangerously misinterprets rejection. 4) Superficial Approach: Simply passing a test doesn't lead to meaningful awareness or institutional change. 5) Terminology Distortion: Using 'gender sensitivity' waters down what KWDI clearly defines as 'sexual violence'. This test exemplifies 'performative progressivism' - appearing concerned about gender issues while avoiding accountability for documented institutional failures."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What's the difference between sexual harassment, sexual misconduct, and sexual violence?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "According to the Korean Women's Development Institute (KWDI) 2020 report, these terms have important relationships: Sexual Harassment includes unwanted sexual comments, propositions, and offensive behaviors, but these are not merely 'uncomfortable' - they are forms of sexual violence. Sexual Assault involves unwanted physical contact and is clearly sexual violence. Sexual Misconduct is a euphemism often used by institutions to avoid legal liability, but essentially refers to acts of sexual violence. KWDI integrates all these behaviors under the umbrella term sexual violence (성폭력) in university environments, in response to institutional practices that minimize the severity of these issues through watered-down terminology."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do Korean university responses to sexual violence compare to international standards?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Korean university responses to sexual violence often fall short of international standards in several key areas: Title IX Compliance: While U.S. universities must follow Title IX regulations requiring prompt and equitable response to reports of sexual violence, Korean universities lack comparable national requirements. Transparency: Many international universities publish annual sexual violence statistics and prevention efforts, while Korean universities often lack transparent reporting mechanisms. Survivor Support: Leading international institutions have dedicated survivor advocacy offices with trained staff, whereas many Korean universities offer minimal support services. Prevention Programs: Evidence-based prevention education is mandated at many international universities but remains underdeveloped in most Korean institutions."
+        }
+      },
+      {
+        "@type": "Question", 
+        "name": "What is Gender Watchdog?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gender Watchdog is a project documenting cases of sexual violence, institutional cover-ups, and alleged misuse of public funds at Korean universities, particularly Dongguk University. Our goal is to make visible the issues of sexual violence in university settings, provide resources to survivors, and demand institutional accountability based on evidence from the Korean Women's Development Institute's research findings."
+        }
+      }
+    ]
+  }
+]

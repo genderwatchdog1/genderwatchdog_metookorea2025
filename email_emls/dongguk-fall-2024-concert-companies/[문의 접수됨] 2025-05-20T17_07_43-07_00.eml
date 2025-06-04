@@ -1,0 +1,113 @@
+Return-Path: <support@bstage.in>
+X-Original-To: genderwatchdog@pm.me
+Delivered-To: genderwatchdog@pm.me
+Authentication-Results: mail.protonmail.ch; dkim=pass (Good 2048 bit
+    rsa-sha256 signature) header.d=zendesk.com header.a=rsa-sha256
+Authentication-Results: mail.protonmail.ch; dmarc=pass (p=none dis=none)
+ header.from=bstage.in
+Authentication-Results: mail.protonmail.ch; spf=pass smtp.mailfrom=bstage.in
+Authentication-Results: mail.protonmail.ch; arc=none smtp.remote-ip=103.151.193.4
+Authentication-Results: mail.protonmail.ch; dkim=pass (2048-bit key) header.d=zendesk.com
+ header.i=@zendesk.com header.b="GVi59jLS"
+Received: from mta-out4.pod15.apse2.zdsys.com (mta-out4.pod15.apse2.zdsys.com
+ [103.151.193.4]) (using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+  key-exchange X25519 server-signature RSA-PSS (4096 bits) server-digest SHA256) (No
+ client certificate requested) by mailinosl103.protonmail.ch (Postfix) with ESMTPS id
+ 4b2BZR6ZfpzPb for <genderwatchdog@pm.me>; Wed, 21 May 2025 00:07:43 +0000 (UTC)
+Received: from zendesk.com (unknown [127.0.0.6]) by mta-out15.pod15.apse2.zdsys.com
+ (Zendesk) with ESMTP id b897d085-9756-4728-97e4-265492c6efee for <genderwatchdog@pm.me>;
+ Wed, 21 May 2025 00:07:35 +0000 (UTC)
+Date: Wed, 21 May 2025 00:07:35 +0000
+From: Support <support@bstage.in>
+Reply-To: Support <support@bstage.in>
+To: genderwatchdog <genderwatchdog@pm.me>
+Message-Id: <P2XNVLZ0PZD_682d194713a15_6834f81249174_sprut@zendesk.com>
+In-Reply-To: <_MoLOpZ7UXXlp_-4XtP1nIom3H5jEdfxn19VuIFEQpNj2dZVyAxjotWyOYI5QesNZTq8i9kPUxEg2NekjRTXI66GmX7O2VEoK2zbC8v6hDc=@pm.me>
+References: <P2XNVLZ0PZD@zendesk.com>
+ <_MoLOpZ7UXXlp_-4XtP1nIom3H5jEdfxn19VuIFEQpNj2dZVyAxjotWyOYI5QesNZTq8i9kPUxEg2NekjRTXI66GmX7O2VEoK2zbC8v6hDc=@pm.me>
+Subject: =?utf-8?B?W+usuOydmCDsoJHsiJjrkKhd?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed;boundary=---------------------979ec706fe1820631cd70fccb973e2d0
+Content-Transfer-Encoding: 7bit
+X-Delivery-Context: event-id-12782649007503
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: All
+X-Mailer: Zendesk Mailer
+X-Zendesk-From-Account-Id: 866a572
+X-Zendesk-Email-Id: 01JVR2NEYQHNHTAKA8Z2B2EAQS
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=zendesk.com; q=dns/txt;
+ s=zendesk1; t=1747786055; bh=sQD8NKTCGpUp/63GZVTlQIDEQhGKVzwj9SlTx+JvF2I=;
+ h=date:from:reply-to:to:message-id:in-reply-to:references:subject:mime-version:content-type:content-transfer-encoding;
+ b=GVi59jLSBFXt0L7yiPMSdZv//hPtC4fI1pcwBNtdM+xoQjYCsoJMqwZ2RCjBP0icPCM3wdo1muwCL14Obm4pXOq5lhDPvE4LXLiXBUyOgY/pP5ipI7Zdw7UzcY6XHedO/4Ewvst+PDDn8pLVVzaPycfk5fBx+VEjQd5aYsmMsDP9L0uLcVYkOanq8HIcSthfOwaiM1hmPq3K099q29QNwXKUktSX5QcDw7mpCkQ56xT5iD0izo1UMT9J92Ar6ZZ49miaH9eaMjgFpN9W7F0LOyMMC3/fLNTSuKQ+U1TVBuXGuUE69yED58h4SoPxXoXzPJTGeVT03oKh3LRQRnnWdA==
+X-Pm-Spam: 0yezJI6YSpyJec91ztFGcjIwoJyLCvXBZcQniisnOERJt9TTVOUdSRQUiwslOjLdFJEL
+ CN0lSXZ1BElETjIbpAuLTsV0MIhkUfxUTkRO99MVFf1dTQ90OBJFV1UiQswOliSwXSRFNN9FTVRTNd
+ FQUbjpIM0FsT1kI0RElZSX0f01TTRVBFh0XUQFRI6UidzBWLJCSEZ1Q0XOlZBX1EElTSRVZQJ1XkQf
+ xxPQkF0tQRIC6sAzWjIwE4xMyuTENMkTzgQjLGbzlVkdGuGlIIJGsjNnL3blJNlLnlmRbcNnjlJ3bm
+ LvNJdbSSCJLQZ1EOl0X1XBZlETEZVRSXN1BfVkRkQPxtFQ06CIRWAzswEjIyMx4EuNTzTkMLQjgzlG
+ bGdkVluIGhHNILRXy0NXdWZuQ9uYmkGVZcV2uyVGZmLy9JdZyTCJLUZEfMVES1TO95FT0bjpIM0FsQ
+ NlIlRQ9NTQVbjpILBTdiwSf2cvNUicmsjAOINnjlJ3bCZ6I0sMHynNIIpj7jFmIGdvlI6biumlIY9m
+ 4iwiI2Y0FdvZWinkcOJiVBREUEVTVwiIifWxbcN2viUmcnOisJPUF6CIRLIT1QJCLkUE9BSX1JURRQ
+ R1Ji40TjOsAJTIltjoIM4CyiwCN0UiEAsOjkl9IZJW1p91ZmbvZp7IjSlBITQ0iisnOWah1VfZ2tmF
+ bZIS6zhmIGdjF9ma1lW5aXR31kVmb3X1BIwXzwjUMNEDxiwiIXafN1waW03JbY5W0wojICLtJlsYWw
+ zNXc9ltlR2bCb6I1hIm0WxaYcWut92YmYulRfZWumlZZRX1kVmbjLwIQwMjxjIMLYnyrNmLHciQJtL
+ CsWlYXNzww9lcmci9owIjwjALMcDziwiMWbpF9jbFlXRYZ92yt9Ve2blRI6bChm1IaxWjuQXY2Yt9l
+ uYmfWRZZlmu1RXZmbkVIwLjwjQMMIjxrNmLHciQJtLCsWlYXN2hnVGd3b5J5hX2iWUbOJiVBREUEVT
+ VwiIipWFbb9FjlRXY2Zy99weVim9cIojw3kjLjMwEk3NTxTkOOQTzsYzMnIfBBhc36SIbM4Cw2QDMj
+ NzAcwND5TAMNADzsMTMnIfBBhc3iV9bYNXlwojIjLwAY2ND0DMMNAzx0kDMDMxMwiMyzF9cdl20fh2
+ YGdf95iaWi3gbOAju2ADMDM4IM0OTxzgMOATy4EjMCLwJN3X3jXRaa9F0w91bGazlluaG6yIZM4Cww
+ QDMzN1IkxOT5TIMOcD1sgTMnIfBdpc3oGNdXR3vwN3XWYi0AuOjzDIMNkD0yATOTO4kA5MjyCJLd5W
+ ftFmbSZ6IdhInoGNdblGzz1CdWZk5ItZXfHVccd3poNGdnI91wifSp3JcZIC64YjImMxQUyOTkjdNM
+ QT33YTMTZzQI0MT9CJMfQ==
+X-Pm-Origin: external
+X-Pm-Transfer-Encryption: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+X-Pm-Content-Encryption: on-delivery
+X-Pm-Spamscore: 0
+X-Pm-Spam-Action: inbox
+
+-----------------------979ec706fe1820631cd70fccb973e2d0
+Content-Type: multipart/related;boundary=---------------------65b99e4b088800673398c3d570c97e38
+
+-----------------------65b99e4b088800673398c3d570c97e38
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIGh0bWw+PGh0bWwgZGlyPSJhdXRvIj48aGVhZD4KICA8bWV0YSBodHRwLWVxdWl2
+PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CiAgPHN0
+eWxlIHR5cGU9InRleHQvY3NzIj4KICAgIHRhYmxlIHRkIHsKICAgICAgYm9yZGVyLWNvbGxhcHNl
+OiBjb2xsYXBzZTsKICAgIH0KICAgIGJvZHlbZGlyPXJ0bF0gLmRpcmVjdGlvbmFsX3RleHRfd3Jh
+cHBlciB7IGRpcmVjdGlvbjogcnRsOyB1bmljb2RlLWJpZGk6IGVtYmVkOyB9CgogIDwvc3R5bGU+
+CgogICAgICAgICAgPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KICAgICAgICAgICAgQG1lZGlhIG9u
+bHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA3NjhweCkgewogICAgICAgICAgICAgIC5zaW1wbGlm
+aWVkLWVtYWlsLWZvb3RlciAubmFtZWNhcmQgewogICAgICAgICAgICAgICAgZGlzcGxheTogYmxv
+Y2s7CiAgICAgICAgICAgICAgICBtaW4td2lkdGg6IDEwMCU7CiAgICAgICAgICAgICAgICBwYWRk
+aW5nOiAwIDAgMTZweCAwOyB9CgogICAgICAgICAgICAgIC5zaW1wbGlmaWVkLWVtYWlsLWZvb3Rl
+ciAuY29udGVudCB7CiAgICAgICAgICAgICAgICBwYWRkaW5nOiAxNnB4OyB9CiAgICAgICAgICAg
+IH0KICAgICAgICAgIDwvc3R5bGU+CiAgICAgICAgPC9oZWFkPgo8Ym9keSBsYW5nPSJrbyIgc3R5
+bGU9IndpZHRoOiAxMDAlIWltcG9ydGFudDsgbWFyZ2luOiAwOyBwYWRkaW5nOiAwOyI+CiAgPGRp
+diBzdHlsZT0iZm9udC1mYW1pbHk6ICdzeXN0ZW0tdWknLCctYXBwbGUtc3lzdGVtJywnQmxpbmtN
+YWNTeXN0ZW1Gb250JywnU2Vnb2UgVUknLCdSb2JvdG8nLCdPeHlnZW4tU2FucycsJ1VidW50dScs
+J0NhbnRhcmVsbCcsJ0hlbHZldGljYSBOZXVlJywnQXJpYWwnLCdzYW5zLXNlcmlmJzsgZm9udC1z
+aXplOiAxNHB4OyBsaW5lLWhlaWdodDogMS41OyBjb2xvcjojNDQ0NDQ0OyI+CiAgICA8cCBkaXI9
+Imx0ciI+6rOg6rCd64uY7J2YIOusuOydmCgxODEzKeqwgCDsoJHsiJjrkJjsl4jsnLzrqbAg7ZiE
+7J6sIOqzoOqwneyngOybkCDri7Tri7nsnpDqsIAg6rKA7YagIOykkeyeheuLiOuLpC48L3A+PHAg
+ZGlyPSJsdHIiPuuMk+q4gOydhCDstpTqsIDtlZjroKTrqbQg7J20IOydtOuplOydvOyXkCDri7Xs
+nqXtlZjshLjsmpQuPC9wPgogIDwvZGl2Pjxicj4KICA8ZGl2IHN0eWxlPSJmb250LWZhbWlseTog
+J3N5c3RlbS11aScsJy1hcHBsZS1zeXN0ZW0nLCdCbGlua01hY1N5c3RlbUZvbnQnLCdTZWdvZSBV
+SScsJ1JvYm90bycsJ094eWdlbi1TYW5zJywnVWJ1bnR1JywnQ2FudGFyZWxsJywnSGVsdmV0aWNh
+IE5ldWUnLCdBcmlhbCcsJ3NhbnMtc2VyaWYnOyBmb250LXNpemU6IDEycHg7IGxpbmUtaGVpZ2h0
+OiAxLjU7IGNvbG9yOiAjYWFhYWFhOyBtYXJnaW46IDEwcHggMCAxNHB4IDA7IHBhZGRpbmctdG9w
+OiAxMHB4OyI+CiAgICBiZW15ZnJpZW5kc+ydmCDsnbTrqZTsnbwg7ISc67mE7Iqk7J6F64uI64uk
+LiA8YSBocmVmPSJodHRwczovL3d3dy56ZW5kZXNrLmtyL3NlcnZpY2UvP3V0bV9jYW1wYWlnbj10
+ZXh0JmFtcDt1dG1fY29udGVudD1iZW15ZnJpZW5kcyZhbXA7dXRtX21lZGl1bT1wb3dlcmVkYnl6
+ZW5kZXNrJmFtcDt1dG1fc291cmNlPWVtYWlsLW5vdGlmaWNhdGlvbiIgc3R5bGU9ImNvbG9yOmJs
+YWNrOyIgdGFyZ2V0PSJfYmxhbmsiPlplbmRlc2s8L2E+7JeQ7IScIOygnOqztQogIDwvZGl2Pjxi
+cj4KCjxzcGFuIHN0eWxlPSJjb2xvcjojRkZGRkZGIiBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9
+InpkX2VuY29kZWRfaWQiPltQMlhOVkwtWjBQWkRdPC9zcGFuPgoKPGRpdiBpdGVtc2NvcGU9IiIg
+aXRlbXR5cGU9Imh0dHA6Ly9zY2hlbWEub3JnL0VtYWlsTWVzc2FnZSIgc3R5bGU9ImRpc3BsYXk6
+bm9uZSI+ICA8ZGl2IGl0ZW1wcm9wPSJhY3Rpb24iIGl0ZW1zY29wZT0iIiBpdGVtdHlwZT0iaHR0
+cDovL3NjaGVtYS5vcmcvVmlld0FjdGlvbiI+ICAgIDxsaW5rIGl0ZW1wcm9wPSJ1cmwiIGhyZWY9
+Imh0dHBzOi8vc3VwcG9ydC5ic3RhZ2UuaW4vaGMvcmVxdWVzdHMvMTgxMyI+ICAgIDxtZXRhIGl0
+ZW1wcm9wPSJuYW1lIiBjb250ZW50PSLti7DsvJMg67O06riwIj4gIDwvZGl2PjwvZGl2PjwvYm9k
+eT48L2h0bWw+
+-----------------------65b99e4b088800673398c3d570c97e38--
+-----------------------979ec706fe1820631cd70fccb973e2d0--

@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "性別監察 | 東國大學性暴力問題與大學內性暴力應對",
+    "description": "東國大學性暴力問題、組織性掩蓋以及公共資金濫用疑雲的調查報告。提供性暴力認知教育和大學性暴力受害者支援。基於Gender Watchdog對韓國女性政策研究院(KWDI)報告及其他資料的分析。",
+    "image": "https://genderwatchdog.org/imgs/og-image-zh-tw.jpg",
+    "author": {
+      "@type": "Organization",
+      "name": "性別監察",
+      "url": "https://genderwatchdog.org/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "性別監察",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "datePublished": "2025-05-12T12:00:00+08:00",
+    "dateModified": "2025-05-12T12:00:00+08:00",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://genderwatchdog.org/index-zh-tw.html"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "東國大學性暴力風險：Gender Watchdog分析顯示81/100高分",
+    "description": "東國大學電影課程獲得Gender Watchdog基於韓國女性政策研究院(KWDI)2020年報告及其他資料分析的最高性暴力風險評分。",
+    "image": "https://genderwatchdog.org/imgs/arts_education_charts_ko/female_vulnerability.png",
+    "datePublished": "2025-05-12T12:00:00+08:00",
+    "dateModified": "2025-05-12T12:00:00+08:00",
+    "author": {
+      "@type": "Organization",
+      "name": "性別監察"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "性別監察",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_192x192.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://genderwatchdog.org/index-zh-tw.html"
+    },
+    "articleBody": "東國大學被發現營運著根據Gender Watchdog基於韓國女性政策研究院(KWDI)及其他資料分析獲得最高性暴力風險分數(81/100)的電影課程。數位影像與內容研究生院擁有全男性教授團隊，並於2018年韓國米兔運動達到高峰時解散了女學生會。此外，在2016年的案例中，東國大學在接獲檢察官關於性暴力案件的通報後，六個月內未採取任何行動。東國大學宣稱擁有381個國際大學合作夥伴關係，其中至少有一所加拿大大學正式否認與東國大學有任何合作夥伴關係。這對其合作夥伴關係聲明的準確性以及可能濫用政府資金提出了嚴重質疑。東國大學提供的性暴力認知測試正在維持有害的性暴力迷思，這是形式主義進步的典型例子。"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "什麼是性暴力認知？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "性暴力認知是指辨識性別歧視、刻板印象、不平等現象，並對其保持敏感度的能力。真正的性暴力認知包括：理解以同意為基礎關係的重要性，識別譴責性暴力受害者的文化，糾正性別刻板印象和性暴力迷思，理解權力不平衡並透過這種理解預防性暴力。我們需要的不是表面的測試，而是實質性的教育和制度改革。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "東國大學的性暴力風險分數是多少？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "根據Gender Watchdog基於韓國女性政策研究院(KWDI)2020年的研究及其他資料的分析，東國大學電影課程的性暴力風險分數為81/100。這是所有分析的大學課程中最高的風險分數，屬於極為嚴重的等級。這種高分數源於：數位影像與內容研究生院全由男性教授組成，性暴力事件處理上的文件記錄疏忽，通過解散女學生會削弱校內倡議機構，以及缺乏有效的性暴力預防和應對機制。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "什麼是Title IX，為何對國際大學如此重要？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Title IX是美國具有里程碑意義的聯邦法律，明確規定：「在美國，任何人不得因性別而被排除參與、被拒絕享受福利，或在接受聯邦財政援助的任何教育計劃或活動中受到歧視。」Title IX最初專注於體育領域的性別平等，但其範圍已大幅擴展，涵蓋教育環境中的性騷擾、性暴力和基於性別的歧視。其對國際合作夥伴關係的影響包括：法律責任延伸，盡職調查要求，合作夥伴關係風險，以及對教職員性別平衡的關注。"
+        }
+      }
+    ]
+  }
+]
