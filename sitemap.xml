@@ -81,30 +81,94 @@
     <xhtml:link rel="alternate" hreflang="zh-tw" href="https://genderwatchdog.org/index-zh-tw.html"/>
   </url>
 
+  <!-- Election issue pages -->
   <url>
-    <loc>https://genderwatchdog.org/election-issue-ko.html</loc>
+    <loc>https://genderwatchdog.org/pages/new-administration/election-issue-ko.html</loc>
     <lastmod>2025-05-28T12:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://genderwatchdog.org/election-issue-ko.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://genderwatchdog.org/election-issue-en.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://genderwatchdog.org/election-issue-ja.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-ch" href="https://genderwatchdog.org/election-issue-zh-ch.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://genderwatchdog.org/election-issue-zh-tw.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://genderwatchdog.org/pages/new-administration/election-issue-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://genderwatchdog.org/pages/new-administration/election-issue.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://genderwatchdog.org/pages/new-administration/election-issue-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://genderwatchdog.org/pages/new-administration/election-issue-zh-tw.html"/>
   </url>
 
   <url>
-    <loc>https://genderwatchdog.org/xiaohongshu.html</loc>
+    <loc>https://genderwatchdog.org/pages/new-administration/election-issue.html</loc>
     <lastmod>2025-05-28T12:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://genderwatchdog.org/xiaohongshu.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://genderwatchdog.org/xiaohongshu-en.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://genderwatchdog.org/xiaohongshu-ja.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-ch" href="https://genderwatchdog.org/xiaohongshu-zh-ch.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://genderwatchdog.org/xiaohongshu-zh-tw.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://genderwatchdog.org/pages/new-administration/election-issue.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://genderwatchdog.org/pages/new-administration/election-issue-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://genderwatchdog.org/pages/new-administration/election-issue-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://genderwatchdog.org/pages/new-administration/election-issue-zh-tw.html"/>
   </url>
 
-  <!-- Add links to other pages as they are developed -->
-  
+  <url>
+    <loc>https://genderwatchdog.org/pages/new-administration/election-issue-ja.html</loc>
+    <lastmod>2025-05-28T12:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://genderwatchdog.org/pages/new-administration/election-issue-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://genderwatchdog.org/pages/new-administration/election-issue-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://genderwatchdog.org/pages/new-administration/election-issue.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://genderwatchdog.org/pages/new-administration/election-issue-zh-tw.html"/>
+  </url>
+
+  <url>
+    <loc>https://genderwatchdog.org/pages/new-administration/election-issue-zh-tw.html</loc>
+    <lastmod>2025-05-28T12:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://genderwatchdog.org/pages/new-administration/election-issue-zh-tw.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://genderwatchdog.org/pages/new-administration/election-issue-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://genderwatchdog.org/pages/new-administration/election-issue.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://genderwatchdog.org/pages/new-administration/election-issue-ja.html"/>
+  </url>
+
+  <!-- Xiaohongshu pages -->
+  <url>
+    <loc>https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu.html</loc>
+    <lastmod>2025-05-28T12:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-en.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-zh-tw.html"/>
+  </url>
+
+  <url>
+    <loc>https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-en.html</loc>
+    <lastmod>2025-05-28T12:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-en.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-zh-tw.html"/>
+  </url>
+
+  <url>
+    <loc>https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-ja.html</loc>
+    <lastmod>2025-05-28T12:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-en.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-zh-tw.html"/>
+  </url>
+
+  <url>
+    <loc>https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-zh-tw.html</loc>
+    <lastmod>2025-05-28T12:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-zh-tw.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-en.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://genderwatchdog.org/pages/xiaohongshu/xiaohongshu-ja.html"/>
+  </url>
+
 </urlset> 
